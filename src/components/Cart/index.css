@@ -5,7 +5,7 @@
   /* Optional: Set a background color for better visibility */
 }
 
-/* Additional CSS to ensure smooth scrolling */
+/* Additional CSS to ensure smooth scrolling a*/
 .items::-webkit-scrollbar {
   display: none; /* Hide scrollbar for WebKit browsers */
 }
